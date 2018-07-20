@@ -1,0 +1,1033 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Page",
+				"PageReference\t[Standard Apex Class]"
+			],
+			[
+				"inser",
+				"insert"
+			],
+			[
+				"Pare",
+				"PageReference\t[Standard Apex Class]"
+			],
+			[
+				"s",
+				"status\t(String)"
+			],
+			[
+				"set",
+				"PUBLIC setRedirect(Boolean redirect) \tSystem.PageReference"
+			],
+			[
+				"out",
+				"apex:outputPanel"
+			],
+			[
+				"va",
+				"var\t(String)"
+			],
+			[
+				"page",
+				"apex:pageBlockSection"
+			],
+			[
+				"co",
+				"apex:commandLink"
+			],
+			[
+				"pa",
+				"apex:pageBlock"
+			],
+			[
+				"im",
+				"immediate\t(Boolean)"
+			],
+			[
+				"action",
+				"apex:actionStatus"
+			],
+			[
+				"re",
+				"reRender\t(Object)"
+			],
+			[
+				"put",
+				"PUBLIC put(ANY key, ANY value) \tString"
+			],
+			[
+				"J",
+				"JSONParser\t[Standard Apex Class]"
+			],
+			[
+				"Json",
+				"JSONParser\t[Standard Apex Class]"
+			],
+			[
+				"getStatus",
+				"PUBLIC getStatusCode() \tInteger"
+			],
+			[
+				"Re",
+				"RestContext\t[Standard Apex Class]"
+			],
+			[
+				"bo",
+				"PUBLIC setBody(String body) \tvoid"
+			],
+			[
+				"Http",
+				"HttpResponse\t[Standard Apex Class]"
+			],
+			[
+				"Htt",
+				"Http\t[Standard Apex Class]"
+			],
+			[
+				"add",
+				"PUBLIC addAll(LIST elements) \tvoid"
+			],
+			[
+				"a",
+				"PUBLIC addAll(LIST elements) \tBoolean"
+			],
+			[
+				"inputt",
+				"apex:inputTextarea"
+			],
+			[
+				"cha",
+				"chatter:feed"
+			],
+			[
+				"in",
+				"apex:inputTextarea"
+			],
+			[
+				"comm",
+				"apex:commandButton"
+			],
+			[
+				"Fe",
+				"Feed"
+			],
+			[
+				"getu",
+				"PUBLIC getUserId() \tString"
+			],
+			[
+				"User",
+				"UserInfo\t[Standard Apex Class]"
+			],
+			[
+				"get",
+				"PUBLIC getParameters() \tMAP<String,String>"
+			],
+			[
+				"syste",
+				"System"
+			],
+			[
+				"str",
+				"strlist"
+			],
+			[
+				"replace",
+				"replaceString"
+			],
+			[
+				"final",
+				"finalstring"
+			],
+			[
+				"pge",
+				"apex:pageBlock"
+			],
+			[
+				"ac",
+				"action\t(ApexPages.Action)"
+			],
+			[
+				"t",
+				"title\t(String)"
+			],
+			[
+				"show",
+				"showHeader\t(Boolean)"
+			],
+			[
+				"inpu",
+				"apex:inputText"
+			],
+			[
+				"ot",
+				"apex:outputPanel"
+			],
+			[
+				"inputf",
+				"apex:inputFile"
+			],
+			[
+				"input",
+				"apex:inputFile"
+			],
+			[
+				"pageme",
+				"apex:pageMessages"
+			],
+			[
+				"mess",
+				"apex:messages"
+			],
+			[
+				"pag",
+				"apex:pageMessages"
+			],
+			[
+				"actions",
+				"apex:actionSupport"
+			],
+			[
+				"contains",
+				"PUBLIC contains(String str) \tBoolean"
+			],
+			[
+				"con",
+				"contenttitle"
+			],
+			[
+				"sat",
+				"static"
+			],
+			[
+				"enq",
+				"enqueueAction"
+			],
+			[
+				"HCD_",
+				"HCD_MyAccountListController"
+			],
+			[
+				"E",
+				"EntitySubscription"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 296.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instga",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 678.0
+	},
+	"console":
+	{
+		"height": 198.0,
+		"history":
+		[
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rajesh.am.kumar/Documents/Salesforce Einstien"
+	],
+	"file_history":
+	[
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEIDP_User_Registration_batch_Utility.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEIDP_User_Registration_Constants.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEHC_AddressManagerController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/pages/GEHC_AddressManager.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/pages/GEIDPBackEndReg.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEIDPBackEndRegCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEHCRegisterForm_CTRL.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEIDP_User_Registration_Email_batch.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/classes/GEIDP_User_Registration_batch.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM-Dev2/src/aura/uniqueAndPreciseAddress/uniqueAndPreciseAddressHelper.js",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPRegistrationUtility.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPBOUserAccess.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPBOUserCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPRegistrationRequest.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPUserProfileRequest.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPRegistrationService.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPUserProfileImpl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDP_CaseFormController_Test.cls",
+		"/C/Users/rajesh.am.kumar/IDM-2/Dev2/src/pages/Customer_Case_Compliance_Message.page",
+		"/C/Users/rajesh.am.kumar/IDM-2/Dev2/src/pages/testpage.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPCaseForm.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDP_CaseFormController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPBackEndRegCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPBackEndReg.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEHC_DE_ChatSupport.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/TestBackendregController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEHC_DE_ChatSupportCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/triggers/IBAssetMasterTrigger.trigger",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/IBAssetDML.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/IBAssetTriggerHandler.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEHC_ForumGroup_Test.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/LightningOutTest.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPB2BAdminPageLightning.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPCreateCase.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPRegistrationServiceFactory.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPUMRFlowTriggerController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/triggers/GEIDPUsersFromManualRegFlowTrigger.trigger",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEHCPersonalize.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEHCPersonalizeCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/components/GEHCCommunityRegisterForm.component",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEHCCommunityRegisterForm_Ctrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPChatterController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPChatter.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/TestMarketoEmail.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPBOChangeEmail.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPUserRegImpl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/ChatterUI_Temp.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/customMetadata/GEIDPAppConfig.GEHCServicesDocPortalGEIDP.md",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPBOBulkFileUploader.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPBOBulkFileUploaderPage.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDP_User_SendEmailUtility.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPLSActivateRegistrationMailCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/components/GEIDPLSActivateRegistrationMailCMP.component",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPSendEmail.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPContactUserAccessCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPStatExt.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GEIDPBackEndStatusPg.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/classes/GEIDPBackOfficeUserRegistrationMailCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/components/GEIDPBackOfficeUserRegistrationMailCMP.component",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/GetSessionIdVF.page",
+		"/C/Users/rajesh.am.kumar/Documents/IDM Dev/src/pages/sessionIdPage.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2",
+		"/C/Users/rajesh.am.kumar/Documents/IDM - QA/src/classes/GEIDPLoginHomeController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/classes/GEHCForumThreadController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/pages/GEHC_ForumThread.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/classes/GEHCForumPageController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/pages/GEHC_UI_Forum_Group.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/pages/GEHC_UI_Forum.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/src/classes/GEHCForumGroupController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/debug/logs/2017-12-27 12-13-28.log",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares - Dev2/apex-scripts/MyScriptName.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHC_UI_FeedUTIL.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHC_ForumPageController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GELS_GroupTriggerHandler.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/LSAccountChatterPostClassTest.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GELSUtility.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/triggers/GELS_GroupWelcomeMailTrigger.trigger",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCUserPageCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHC_UI_MyActivityPage.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCHomeCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHCHome.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/FeedItemDML.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHC_UI_Follow.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHCPersonalize.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCPersonalizeCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCUtil.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCMyActivityCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/MyActivities.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHC_UI_UserPage.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHCTemplate_CTRL.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/pages/GEHCLoggedInTemplate.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHC_UI_HomeWithCarouselCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHC_UI_UserPageCtrl.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/GEHC_UI_Home_TempCtrl_Carousel.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE Cares/src/classes/TestGEHCCommunityEventTopicsConnectionTH.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_WorkspaceDetailsRightController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_CommunitySpaceHandler.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_CreateGroupHandler.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_CreateGroupSequenceController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_InternalSpaceController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_IconBrowseController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_Utility.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_GlobalSearchController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_GlobalSearchCmp/HCD_GlobalSearchCmpHelper.js",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_KnowledgeSearchCmp/HCD_KnowledgeSearchCmp.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_KnowledgeHomeController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_FetchCases.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_TemplateController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_LibraryDetailController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_LibraryDetails/HCD_LibraryDetails.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_CaseCreateForm_TestComponent/HCD_CaseCreateForm_TestComponentHelper.js",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_PageRedirecter/HCD_PageRedirecterController.js",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_CommunitySpaceBannerTest/HCD_CommunitySpaceBannerTestHelper.js",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_GlobalSearchCmp/HCD_GlobalSearchCmp.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_ContactModalityAssociationHandler.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_AddAttachment/HCD_AddAttachment.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_CaseAddAttachmentController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_CreateLibraryMember.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/AddAttachment/AddAttachment.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_WidenVideouploadController.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_KnowledgeDetailCmp.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_ModalityRegionAssociation.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/pages/HCD_NewCommModalityPageRelated_2.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/pages/hcd_uploadvideo.page",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/permissionsets/HCD_Community_User_Permission.permissionset",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/classes/HCD_TemplateControllerTest.cls",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_TemplateHeader/HCD_TemplateHeader.cmp",
+		"/C/Users/rajesh.am.kumar/Documents/GE_HCD_Portal/src/aura/HCD_DynamicIcon/HCD_DynamicIconController.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Salesforce Einstien.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"GEIDP_User_Registration_batch_Utility",
+				"src\\classes\\GEIDP_User_Registration_batch_Utility.cls"
+			],
+			[
+				"GEIDP_User_Registration_Constants",
+				"src\\classes\\GEIDP_User_Registration_Constants.cls"
+			],
+			[
+				"geidpbacken",
+				"src\\classes\\GEIDPBackEndRegCtrl.cls"
+			],
+			[
+				"GEIDPbackend",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"GEHC_Address",
+				"src\\pages\\GEHC_AddressManager.page"
+			],
+			[
+				"Uniq",
+				"src\\aura\\uniqueAndPreciseAddress\\uniqueAndPreciseAddressHelper.js"
+			],
+			[
+				"GEHC_A",
+				"src\\classes\\GEHC_AddressManagerController.cls"
+			],
+			[
+				"GEIDPBackEndRegCtrl",
+				"src\\classes\\GEIDPBackEndRegCtrl.cls"
+			],
+			[
+				"GEIDPBOUserCtrl",
+				"src\\classes\\GEIDPBOUserCtrl.cls"
+			],
+			[
+				"GEIDPBOUserAccess",
+				"src\\pages\\GEIDPBOUserAccess.page"
+			],
+			[
+				"GEIDPRegistrationUtility",
+				"src\\classes\\GEIDPRegistrationUtility.cls"
+			],
+			[
+				"GEIDPRE",
+				"src\\classes\\GEIDPRegistrationService.cls"
+			],
+			[
+				"GEIDPUserPro",
+				"src\\classes\\GEIDPUserProfileImpl.cls"
+			],
+			[
+				"GEIDPPR",
+				"src\\classes\\GEIDPUserProfileRequest.cls"
+			],
+			[
+				"GEIDP_CASE",
+				"src\\classes\\GEIDP_CaseFormController_Test.cls"
+			],
+			[
+				"geidpbacke",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"GEHC_DE",
+				"src\\pages\\GEHC_DE_ChatSupport.page"
+			],
+			[
+				"GEIDP_CaseFormController",
+				"src\\classes\\GEIDP_CaseFormController.cls"
+			],
+			[
+				"GEIDPcasefor",
+				"src\\pages\\GEIDPCaseForm.page"
+			],
+			[
+				"GEIDPCase",
+				"src\\pages\\GEIDPCaseForm.page"
+			],
+			[
+				"GEHC_DE_ChatSupport",
+				"src\\classes\\GEHC_DE_ChatSupportCtrl.cls"
+			],
+			[
+				"IBAssetDML",
+				"src\\classes\\IBAssetDML.cls"
+			],
+			[
+				"IBAssetTriggerHandler",
+				"src\\classes\\IBAssetTriggerHandler.cls"
+			],
+			[
+				"IBAssetMasterTrigger",
+				"src\\triggers\\IBAssetMasterTrigger.trigger"
+			],
+			[
+				"GEIDPCrea",
+				"src\\pages\\GEIDPCreateCase.page"
+			],
+			[
+				"geidpregistrationservicefactory",
+				"src\\classes\\GEIDPRegistrationServiceFactory.cls"
+			],
+			[
+				"geidpumrflowtriggercontroller",
+				"src\\classes\\GEIDPUMRFlowTriggerController.cls"
+			],
+			[
+				"geidpusersfrommanualregflowtrigger",
+				"src\\triggers\\GEIDPUsersFromManualRegFlowTrigger.trigger"
+			],
+			[
+				"geidpregistrationutility",
+				"src\\classes\\GEIDPRegistrationUtility.cls"
+			],
+			[
+				"gehccommunityregisterform_ctrl",
+				"src\\classes\\GEHCCommunityRegisterForm_Ctrl.cls"
+			],
+			[
+				"gehcpersonalizectrl",
+				"src\\classes\\GEHCPersonalizeCtrl.cls"
+			],
+			[
+				"gehcpersonalize",
+				"src\\pages\\GEHCPersonalize.page"
+			],
+			[
+				"geidp_caseformcontroller",
+				"src\\classes\\GEIDP_CaseFormController.cls"
+			],
+			[
+				"createcase",
+				"src\\pages\\GEIDPCreateCase.page"
+			],
+			[
+				"geidpchattercontroller",
+				"src\\classes\\GEIDPChatterController.cls"
+			],
+			[
+				"testmarketoemail",
+				"src\\classes\\TestMarketoEmail.cls"
+			],
+			[
+				"geidpbochangeemail",
+				"src\\pages\\GEIDPBOChangeEmail.page"
+			],
+			[
+				"geidpuserregimpl",
+				"src\\classes\\GEIDPUserRegImpl.cls"
+			],
+			[
+				"geidpbackendregctrl",
+				"src\\classes\\GEIDPBackEndRegCtrl.cls"
+			],
+			[
+				"geidpbac",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"geidpbobulkfileuploader",
+				"src\\classes\\GEIDPBOBulkFileUploader.cls"
+			],
+			[
+				"geidpbobulkfileuploaderpage",
+				"src\\pages\\GEIDPBOBulkFileUploaderPage.page"
+			],
+			[
+				"geidplsactivateregistrationmailctrl",
+				"src\\classes\\GEIDPLSActivateRegistrationMailCtrl.cls"
+			],
+			[
+				"geidpsendemail",
+				"src\\classes\\GEIDPSendEmail.cls"
+			],
+			[
+				"geidpsend",
+				"src\\classes\\GEIDPSendEmail.cls"
+			],
+			[
+				"geidplsactivateregistrationmailcmp",
+				"src\\components\\GEIDPLSActivateRegistrationMailCMP.component"
+			],
+			[
+				"geidpback",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"geidpcase",
+				"src\\pages\\GEIDPCaseForm.page"
+			],
+			[
+				"geidpcontactuseraccessctrl",
+				"src\\classes\\GEIDPContactUserAccessCtrl.cls"
+			],
+			[
+				"testma",
+				"src\\classes\\TestMarketoEmail.cls"
+			],
+			[
+				"geidpbackofficeuserregistrationmailctrl",
+				"src\\classes\\GEIDPBackOfficeUserRegistrationMailCtrl.cls"
+			],
+			[
+				"geidpbackofficeuserregistrationmailcmp",
+				"src\\components\\GEIDPBackOfficeUserRegistrationMailCMP.component"
+			],
+			[
+				"session",
+				"src\\pages\\sessionIdPage.page"
+			],
+			[
+				"sessoi",
+				"src\\pages\\GetSessionIdVF.page"
+			],
+			[
+				"geidpstatext",
+				"src\\classes\\GEIDPStatExt.cls"
+			],
+			[
+				"geidpbackendstatuspg",
+				"src\\pages\\GEIDPBackEndStatusPg.page"
+			],
+			[
+				"geidpba",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"geidploginhomecontroller",
+				"src\\classes\\GEIDPLoginHomeController.cls"
+			],
+			[
+				"geidpbackend",
+				"src\\pages\\GEIDPBackEndReg.page"
+			],
+			[
+				"gehc_ui_forum_group",
+				"src\\pages\\GEHC_UI_Forum_Group.page"
+			],
+			[
+				"gehcforumgroupcontroller",
+				"src\\classes\\GEHCForumGroupController.cls"
+			],
+			[
+				"gehcforumthreadcontroller",
+				"src\\classes\\GEHCForumThreadController.cls"
+			],
+			[
+				"gehc_forumthread",
+				"src\\pages\\GEHC_ForumThread.page"
+			],
+			[
+				"gehc_ui_for",
+				"src\\pages\\GEHC_UI_Forum_Group.page"
+			],
+			[
+				"gehcforumpagecontroller",
+				"src\\classes\\GEHCForumPageController.cls"
+			],
+			[
+				"gehc_ui_forum",
+				"src\\pages\\GEHC_UI_Forum.page"
+			],
+			[
+				"gehc_forumpagecontroller",
+				"src\\classes\\GEHC_ForumPageController.cls"
+			],
+			[
+				"gehc_fee",
+				"src\\classes\\GEHC_UI_FeedUTIL.cls"
+			],
+			[
+				"gels_grouptriggerhandler",
+				"src\\classes\\GELS_GroupTriggerHandler.cls"
+			],
+			[
+				"gel",
+				"src\\classes\\GELSUtility.cls"
+			],
+			[
+				"gehcuserpagectrl",
+				"src\\classes\\GEHCUserPageCtrl.cls"
+			],
+			[
+				"gehc_myac",
+				"src\\pages\\GEHC_UI_MyActivityPage.page"
+			],
+			[
+				"gehc_ui_feedutil",
+				"src\\classes\\GEHC_UI_FeedUTIL.cls"
+			],
+			[
+				"gehchomectrl",
+				"src\\classes\\GEHCHomeCtrl.cls"
+			],
+			[
+				"follo",
+				"src\\pages\\GEHC_UI_Follow.page"
+			],
+			[
+				"gehchome",
+				"src\\pages\\GEHCHome.page"
+			],
+			[
+				"gehc_ui_myactivitypage",
+				"src\\pages\\GEHC_UI_MyActivityPage.page"
+			],
+			[
+				"gehcutil",
+				"src\\classes\\GEHCUtil.cls"
+			],
+			[
+				"activity",
+				"src\\classes\\GEHCMyActivityCtrl.cls"
+			],
+			[
+				"myac",
+				"src\\pages\\MyActivities.page"
+			],
+			[
+				"gehc_ui_userpage",
+				"src\\pages\\GEHC_UI_UserPage.page"
+			],
+			[
+				"follow",
+				"src\\pages\\GEHC_UI_Follow.page"
+			],
+			[
+				"myactivity",
+				"src\\pages\\GEHC_UI_MyActivityPage.page"
+			],
+			[
+				"gehcloggedintemplate",
+				"src\\pages\\GEHCLoggedInTemplate.page"
+			],
+			[
+				"gehctemplate_ctrl",
+				"src\\classes\\GEHCTemplate_CTRL.cls"
+			],
+			[
+				"hcd_creategroupsequencecontroller",
+				"src\\classes\\HCD_CreateGroupSequenceController.cls"
+			],
+			[
+				"hcd_libra",
+				"src\\aura\\HCD_LibraryDetails\\HCD_LibraryDetails.cmp"
+			],
+			[
+				"hcd_library",
+				"src\\classes\\HCD_LibraryDetailController.cls"
+			],
+			[
+				"hcd_knowledgehomecontroller",
+				"src\\classes\\HCD_KnowledgeHomeController.cls"
+			],
+			[
+				"hcd_knowledgesearchcmp",
+				"src\\aura\\HCD_KnowledgeSearchCmp\\HCD_KnowledgeSearchCmp.cmp"
+			],
+			[
+				"hcd_utilit",
+				"src\\classes\\HCD_Utility.cls"
+			],
+			[
+				"hcd_glo",
+				"src\\aura\\HCD_GlobalSearchCmp\\HCD_GlobalSearchCmp.cmp"
+			],
+			[
+				"communityspa",
+				"src\\classes\\HCD_CommunitySpaceHandler.cls"
+			],
+			[
+				"hcd_createli",
+				"src\\classes\\HCD_CreateLibraryMember.cls"
+			],
+			[
+				"hcd_caseaddattachmentcontroller",
+				"src\\classes\\HCD_CaseAddAttachmentController.cls"
+			],
+			[
+				"hcd_video",
+				"src\\classes\\HCD_WidenVideouploadController.cls"
+			],
+			[
+				"hcd_new",
+				"src\\pages\\HCD_NewCommModalityPageRelated_2.page"
+			],
+			[
+				"template",
+				"src\\aura\\HCD_TemplateHeader\\HCD_TemplateHeader.cmp"
+			],
+			[
+				"hcd_templatecontrollertest",
+				"src\\classes\\HCD_TemplateControllerTest.cls"
+			],
+			[
+				"hcd_uploadvideo",
+				"src\\pages\\hcd_uploadvideo.page"
+			],
+			[
+				"hcd_li",
+				"src\\aura\\HCD_LibraryDetails\\HCD_LibraryDetails.cmp"
+			],
+			[
+				"hcd_lib",
+				"src\\aura\\HCD_LibraryDetails\\HCD_LibraryDetails.cmp"
+			],
+			[
+				"hcdlib",
+				"src\\classes\\HCD_LibraryDetail.cls"
+			],
+			[
+				"hcd_",
+				"src\\classes\\HCD_LibraryDetail.cls"
+			],
+			[
+				"hcd_rec",
+				"src\\aura\\HCD_RecordFollower\\HCD_RecordFollower.cmp"
+			],
+			[
+				"hcd_commu",
+				"src\\aura\\HCD_CommunitySpaceBanner_1\\HCD_CommunitySpaceBanner_1.cmp"
+			],
+			[
+				"hcd_spacesbannercontroller",
+				"src\\classes\\HCD_SpacesBannerController.cls"
+			],
+			[
+				"hcd_mycomm",
+				"src\\aura\\HCD_MyCommunitiesList\\HCD_MyCommunitiesList.cmp"
+			],
+			[
+				"right",
+				"src\\aura\\HCD_WorkspaceDetailsRight\\HCD_WorkspaceDetailsRight.cmp"
+			],
+			[
+				"left",
+				"src\\aura\\HCD_WorkspaceDetailsLeft\\HCD_WorkspaceDetailsLeft.cmp"
+			],
+			[
+				"hcd_communityspaceseqcontroller",
+				"src\\classes\\HCD_CommunitySpaceSeqController.cls"
+			],
+			[
+				"hcd_createpublicgrouphandler",
+				"src\\classes\\HCD_CreatePublicGroupHandler.cls"
+			],
+			[
+				"hcd_createpublicgroupsequencecontroller",
+				"src\\classes\\HCD_CreatePublicGroupSequenceController.cls"
+			],
+			[
+				"hcd_librarydetail",
+				"src\\classes\\HCD_LibraryDetail.cls"
+			],
+			[
+				"hcd_cre",
+				"src\\classes\\HCD_CreateGroupHandler.cls"
+			],
+			[
+				"hcd_creategrouphandler",
+				"src\\classes\\HCD_CreateGroupHandler.cls"
+			],
+			[
+				"hcd_newcommmodalitypagerelated_2",
+				"src\\pages\\HCD_NewCommModalityPageRelated_2.page"
+			],
+			[
+				"hcd_libraryde",
+				"src\\aura\\HCD_LibraryDetails\\HCD_LibraryDetailsController.js"
+			],
+			[
+				"hcd_newcommmodalitypagerelatedcontroller",
+				"src\\classes\\HCD_NewCommModalityPageRelatedController.cls"
+			],
+			[
+				"hcd_newcommunitymodalitypagerelated",
+				"src\\pages\\HCD_NewCommunityModalityPageRelated.page"
+			],
+			[
+				"hcd_communityspacehandler",
+				"src\\classes\\HCD_CommunitySpaceHandler.cls"
+			],
+			[
+				"hcd_mycommunitiescontroller",
+				"src\\classes\\HCD_MyCommunitiesController.cls"
+			],
+			[
+				"widen",
+				"src\\pages\\HCD_WidenVideoUpload.page"
+			],
+			[
+				"accountservices",
+				"src\\classes\\HCIT_AccountServices.cls"
+			],
+			[
+				"hcd_utility",
+				"src\\classes\\HCD_Utility.cls"
+			],
+			[
+				"hcd_templatecontroller",
+				"src\\classes\\HCD_TemplateController.cls"
+			],
+			[
+				"hcd_temp",
+				"src\\aura\\HCD_TemplateHeader\\HCD_TemplateHeader.cmp"
+			],
+			[
+				"new",
+				"src\\pages\\NewHCDCommunityModalityPageRelated.page"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ALIprocessingTest"
+			]
+		],
+		"width": 1062.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

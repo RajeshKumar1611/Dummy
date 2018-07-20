@@ -1,0 +1,16 @@
+{
+    "projectName": "Salesforce Einstien",
+    "username": "rajesh@einstein.ai",
+    "id": "61a18810-8bf3-11e8-a665-4b5c3313f43b",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap4.salesforce.com",
+    "workspace": "C:\\Users\\rajesh.am.kumar\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger"
+    ]
+}

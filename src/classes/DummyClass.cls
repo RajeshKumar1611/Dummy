@@ -3,5 +3,6 @@ public with sharing class DummyClass {
 	System.debug('Hello');
 	System.debug('Hello');
 	System.debug('Hello');
+	System.debug('Hello');
 	}
 }
